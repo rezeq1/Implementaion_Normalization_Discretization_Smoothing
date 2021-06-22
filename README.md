@@ -1,4 +1,4 @@
-# Implementaion_Normalization_Discretization_Smoothing
+## Implementaion_Normalization_Discretization_Smoothing
 
 In this program i implement normalization, discretization using binning and smoothing algorithms .
 And i used the python libraries that know how to perform the normalization, discretization using binning and smoothing algorithms .
